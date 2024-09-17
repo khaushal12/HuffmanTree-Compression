@@ -1,7 +1,5 @@
 HUFFMAN ASSIGNMENT: NEW VERSION FOR FALL 2021
 
-STUDENTS SHOULD REPLACE THIS README WITH THEIR OWN
-
 Included Files:
 - Makefile: automatically start web server, various tests
 - bitio.py: Contains the classs BitWriter and BitReader
